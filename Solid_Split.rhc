@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<RhinoScriptCompilerProject>
+  <Plugin>
+    <PluginName>Solid Split</PluginName>
+    <PluginFolder>C:\Users\me\Dropbox\Src\Solid Split\</PluginFolder>
+    <AuthorName>Yuheng Ouyang</AuthorName>
+    <AuthorEmail>govizlora@gmail.com</AuthorEmail>
+    <AuthorPhone>215-300-3706</AuthorPhone>
+    <AuthorAddress>PennDesign</AuthorAddress>
+    <AuthorCountry>United States</AuthorCountry>
+    <AuthorWebsite>yuhengouyang.com</AuthorWebsite>
+    <UpdateURL />
+    <CopyrightMessage />
+    <RhinoCommonOverride />
+  </Plugin>
+  <Commands>
+    <!--Compiled Script: SolidSplit-->
+    <Command>
+      <Name>SolidSplit</Name>
+      <Path>C:\Users\me\Dropbox\Src\Solid Split\SolidSplit.py</Path>
+      <Type>Normal</Type>
+    </Command>
+  </Commands>
+  <Menu />
+</RhinoScriptCompilerProject>
